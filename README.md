@@ -17,15 +17,9 @@ Steps to submit the project:
 5. Put in a pull request
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a the base fork should be: CAT117SP15/Project_1_Base
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b right next to that, instead of "base:master", chose the branch with your name from the drop down menu
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c head fork should be "YourgitHubHandle/Project_1_Base"
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d compare should be at "Master"
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e Select create "pull request"
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f add comments
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g select "create pull request"
