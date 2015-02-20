@@ -15,7 +15,7 @@ Steps to submit the project:
 3. In the GitHub application on your computer, commit the changes
 4. Sync the changes to your forked repo on your GitHub page
 5. Put in a pull request
-..1 the base fork should be: CAT117SP15/Project_1_Base
+⋅⋅1 the base fork should be: CAT117SP15/Project_1_Base
 ⋅⋅1 right next to that, instead of "base:master", chose the branch with your name from the drop down menu
 ⋅⋅1 head fork should be "YourgitHubHandle/Project_1_Base"
 ⋅⋅1 compare should be at "Master"
